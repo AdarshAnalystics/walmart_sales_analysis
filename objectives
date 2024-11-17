@@ -1,0 +1,28 @@
+Branch and City Sales Analysis
+Q1: What is the total sales for each branch?
+Q2: Which city has the highest and lowest total sales?
+Customer Demographics Analysis
+Q3: What is the distribution of customer types (Member vs. Normal) in the dataset?
+Q4: How does purchasing behavior differ between customer types (e.g., average order value)?
+Q5: What is the distribution of purchases by gender?
+Product Line Performance
+Q6: What is the total revenue contributed by each product line?
+Q7: Which product lines have the highest and lowest quantity sold?
+Q8: What is the average rating for each product line?
+Time-Based Sales Analysis
+Q9: What are the peak hours for sales throughout the day?
+Q10: Which days of the week generate the most sales?
+Q11: Are there any monthly trends in sales?
+Payment Method Analysis
+Q12: What is the distribution of payment methods (e.g., Cash, Credit Card, Ewallet)?
+Q13: Which payment method is most commonly used in each branch?
+Customer Rating Analysis
+Q14: What is the average customer rating for each branch and city?
+Q15: Is there a correlation between customer rating and total sales amount?
+Revenue and Gross Income Analysis
+Q16: What is the overall revenue and gross income across all branches?
+Q17: What is the average order value in each branch?
+Q18: How does the gross margin percentage vary between branches and product lines?
+Tax and COGS Impact Analysis
+Q19: What is the impact of tax on the total sales amount?
+Q20: How do the cost of goods sold (COGS) and gross income vary across product lines?
